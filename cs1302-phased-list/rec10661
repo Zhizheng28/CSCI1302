@@ -1,0 +1,42 @@
+cs1302-phased-list:
+total 392
+drwxr-xr-x. 3 myid     28 Mar 13 16:42 bin
+-rw-r--r--. 1 myid   4182 Feb 28 10:45 phase1.jar
+-rw-r--r--. 1 myid 346395 Feb 28 10:45 phase1.png
+-rw-r--r--. 1 myid  44348 Feb 28 10:45 README.md
+-rw-r--r--. 1 myid      0 Mar 15 19:13 rec10661
+drwxr-xr-x. 2 myid     36 Mar 14 10:32 reports
+drwxr-xr-x. 3 myid     28 Mar 11 15:45 src
+
+cs1302-phased-list/bin:
+total 0
+drwxr-xr-x. 3 myid 24 Mar 13 16:42 cs1302
+
+cs1302-phased-list/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 109 Mar 15 15:18 p2
+
+cs1302-phased-list/bin/cs1302/p2:
+total 12
+-rw-r--r--. 1 myid 1616 Mar 15 19:11 ArrayStringList.class
+-rw-r--r--. 1 myid 1530 Mar 15 18:54 BaseStringList.class
+-rw-r--r--. 1 myid 1819 Mar 15 19:11 LinkedStringList.class
+
+cs1302-phased-list/reports:
+total 64
+-rw-r--r--. 1 myid 62170 Mar 15 19:12 TEST-junit-jupiter.xml
+
+cs1302-phased-list/src:
+total 0
+drwxr-xr-x. 3 myid 24 Mar 11 16:41 cs1302
+
+cs1302-phased-list/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 106 Mar 15 19:11 p2
+
+cs1302-phased-list/src/cs1302/p2:
+total 12
+-rw-r--r--. 1 myid 3260 Mar 15 19:05 ArrayStringList.java
+-rw-r--r--. 1 myid 2081 Mar 15 18:53 BaseStringList.java
+-rw-r--r--. 1 myid 3601 Mar 15 19:11 LinkedStringList.java
+/home/myid/zw45499/cs1302-phased-list:/home/myid/csci-1302
